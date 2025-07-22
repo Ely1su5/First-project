@@ -1,6 +1,8 @@
 # First Project: Shape Drawing with OpenCV
 
-![OpenCV Logo](https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png)
+<div align="center">
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" alt="OpenCV Logo" width="300">
+</div>
 
 A Python application that allows users to draw shapes (lines, rectangles, circles) on images using both voice commands and manual input, with additional features for video recording and screenshot capture.
 
@@ -23,18 +25,4 @@ A Python application that allows users to draw shapes (lines, rectangles, circle
   - Real-time preview of drawings
   - Keyboard-controlled display windows
 
-## Prerequisites
-
-- Python 3.7+
-- OpenCV (`pip install opencv-python`)
-- NumPy (`pip install numpy`)
-- Vosk Speech Recognition (`pip install vosk`)
-- PyAudio (`pip install pyaudio`)
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/first-project.git
-   cd first-project
-  
+[... el resto de tu README permanece igual ...]
