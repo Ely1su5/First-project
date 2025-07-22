@@ -24,5 +24,3 @@ A Python application that allows users to draw shapes (lines, rectangles, circle
   - Menu-driven console interface
   - Real-time preview of drawings
   - Keyboard-controlled display windows
-
-[... el resto de tu README permanece igual ...]
