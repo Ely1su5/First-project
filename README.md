@@ -32,7 +32,7 @@ A Python application that allows users to draw shapes (lines, rectangles, circle
 - ## Tecnologies used
 
 -  **opencv**: Used for drawing shapes of different sizes and colors.
--  ** numpy**: Used to perform mathematical operations.
+-  **numpy**: Used to perform mathematical operations.
 
   ---
 
