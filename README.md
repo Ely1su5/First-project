@@ -36,7 +36,7 @@ A Python application that allows users to draw shapes (lines, rectangles, circle
 
   ---
 
-  ## Packages used:
+  ## Packages used
 
   ```bash
   pip install opencv-python
@@ -45,3 +45,8 @@ A Python application that allows users to draw shapes (lines, rectangles, circle
   ```bash
   pip install numpy
   ```
+  ---
+
+  ## Future objectives
+
+  Con este proyecto no se tienen objetivos futuros pues fue realizado como un ejercicio de dibujo de formas con opencv en Adakademy con el apoyo del profesor Jesus Alcala.
