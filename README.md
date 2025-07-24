@@ -6,11 +6,13 @@
 
 A Python application that allows users to draw shapes (lines, rectangles, circles) on images using both voice commands and manual input, with additional features for video recording and screenshot capture.
 
+---
+
 ## Features
 
 - **Shape Drawing**:
   - Lines, rectangles, and circles
-  - Customizable colors (RGB values)
+  - Customizable colors (LAB values)
   - Adjustable thickness or filled shapes
 - **Voice Control**:
   - Voice-activated shape drawing
@@ -24,3 +26,22 @@ A Python application that allows users to draw shapes (lines, rectangles, circle
   - Menu-driven console interface
   - Real-time preview of drawings
   - Keyboard-controlled display windows
+ 
+  ---
+
+- ## Tecnologies used
+
+-  **opencv**: Used for drawing shapes of different sizes and colors.
+-  ** numpy**: Used to perform mathematical operations.
+
+  ---
+
+  ## Packages used:
+
+  ```bash
+  pip install opencv-python
+  ```
+
+  ```bash
+  pip install numpy
+  ```
